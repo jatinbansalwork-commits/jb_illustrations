@@ -72,41 +72,23 @@ This skill uses JB's **absurd inline illustration** style:
 
 ## Example Output
 
-> **Note:** Example images below are style references from the original Chinese project. Labels in these images are Chinese — ignore them. All new illustrations must use **English labels only**.
-
-### Two Breakpoints
-
 ![Two breakpoints](examples/images/01-two-breakpoints.png)
-
-### Sort by Purpose
 
 ![Sort by purpose](examples/images/02-sort-by-purpose.png)
 
-### One Input, Many Uses
-
-![One input many uses](examples/images/03-one-fish-many-uses.png)
-
-### Handoff Path
+![One fish many uses](examples/images/03-one-fish-many-uses.png)
 
 ![Handoff path](examples/images/04-handoff-path.png)
 
-### Information Well
-
 ![Information well](examples/images/05-information-well.png)
-
-### Idea Press
 
 ![Idea press](examples/images/06-idea-press.png)
 
-### Content Fermentation
-
 ![Content fermentation](examples/images/07-content-fermentation.png)
-
-### Trust Bridge
 
 ![Trust bridge](examples/images/08-trust-bridge.png)
 
-These images are style calibration samples, not composition templates. Always invent a fresh metaphor from the current article — do not copy old cases.
+Pure white background, black hand-drawn lines, sparse red/orange/blue English labels — the default JB style. These calibrate tone and density; invent fresh metaphors per article.
 
 ---
 
@@ -198,12 +180,9 @@ More examples in [examples/prompts.md](examples/prompts.md).
 .
 ├── README.md
 ├── LICENSE
-├── NOTICE.md
 ├── examples/
 │   ├── images/
-│   │   ├── 01-two-breakpoints.png
-│   │   ├── 02-sort-by-purpose.png
-│   │   └── ...
+│   ├── generated/
 │   └── prompts.md
 └── jb_illustrations/
     ├── SKILL.md
@@ -214,6 +193,7 @@ More examples in [examples/prompts.md](examples/prompts.md).
     └── references/
         ├── style-dna.md
         ├── jb-ip.md
+        ├── character-roles.md
         ├── composition-patterns.md
         ├── prompt-template.md
         └── qa-checklist.md
@@ -225,7 +205,7 @@ The subdirectory to install:
 jb_illustrations/
 ```
 
-Root README, LICENSE, NOTICE, and examples are for GitHub sharing.
+Root README, LICENSE, and examples are for GitHub sharing.
 
 ---
 
@@ -237,17 +217,6 @@ Root README, LICENSE, NOTICE, and examples are for GitHub sharing.
 - Example images calibrate line density, whitespace, color restraint, and JB participation — don't copy compositions.
 - Image models may hallucinate text, drift in style, or add unwanted titles — check after generation.
 - If English text is badly wrong, reduce label count and regenerate.
-
----
-
-## Credits
-
-Adapted from [Ian Xiaohei Illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) by Ian — reimagined for English content with an Indian cultural lens.
-
-Original author:
-
-- GitHub: [helloianneo](https://github.com/helloianneo)
-- Website: [www.ianneo.xyz](https://www.ianneo.xyz)
 
 ---
 

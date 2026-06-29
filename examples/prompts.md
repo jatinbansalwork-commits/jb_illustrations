@@ -58,11 +58,16 @@ No formal flowchart. Don't copy the one-input-many-uses old case.
 Invent a fresh low-tech metaphor with JB at the center.
 ```
 
-## Indian Context Example
+## Single Concept Examples
 
 ```text
-Use $jb_illustrations — generate one image for "your content system is a dabbawala network, not a single delivery boy."
-JB sorts tiffin boxes by destination. English labels only. Absurd but clean.
+Use $jb_illustrations — generate one white-background 16:9 illustration for "trust is laid brick by brick."
+JB laying bricks across a gap. Pure white, black lines, sparse red/orange/blue English labels.
+```
+
+```text
+Use $jb_illustrations — generate one image for "one raw input, many content formats."
+JB slicing one fish into blog, thread, newsletter outputs. White background. Absurd but clean.
 ```
 
 ## Edit: Remove Title
@@ -79,6 +84,14 @@ Don't add new text or objects.
 Use $jb_illustrations — this image is close, but JB feels decorative.
 Keep the core meaning. Regenerate with JB as the person actually running the structure.
 Weirder, but still white, clean, few labels.
+```
+
+## Dark Mode (optional)
+
+```text
+Use $jb_illustrations — generate one dark-mode 16:9 illustration for "trust is laid brick by brick."
+Near-black background, white hand-drawn lines, JB laying bricks across a gap.
+English labels only. Sparse orange/red/blue annotations.
 ```
 
 ## Style Sample Set

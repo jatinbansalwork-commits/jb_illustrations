@@ -32,11 +32,53 @@ English handwritten labels:
 Color use:
 Black for main line art and JB. Orange for main flow/path/arrows. Red only for key warnings/problems/results. Blue only for secondary notes or feedback/system state.
 
-Cultural note (optional):
-If the article's metaphor fits, use understated Indian everyday objects (tiffin box, chai kettle, jugaad fix, dabbawala rack, autorickshaw meter) — never stereotypes or kitsch.
+Cultural note:
+Prefer understated Bangalore everyday metaphors — filter coffee tapri, steel tumbler, decoction flask, yellow auto with locality board, BMTC route board, kirana scale, route card, hand stamp. Localities: Koramangala, Indiranagar, Whitefield, HSR, Jayanagar, MG Road, Electronic City. English labels only. Never stereotypes or kitsch.
 
 Constraints:
-One image explains only one core structure. Keep the main subject around 40%-60% of the canvas. Preserve at least 35% blank white space. Use at most 5-8 short handwritten English labels. All text in the image must be English — no Chinese characters, no Hindi, no mixed languages. Do not write a title in the top-left corner. Do not write the structure type on the image. Do not make it a formal diagram, course slide, or dense explainer. Do not copy label text from bundled example images (they contain Chinese from the source project). Do not copy prior examples or reuse known case compositions unless explicitly requested; invent a fresh visual metaphor for this specific article. It should be clear but not instructional, interesting but not childish, strange but clean.
+One image explains only one core structure. Keep the main subject around 40%-60% of the canvas. Preserve at least 35% blank white space. Use at most 5-8 short handwritten English labels. All text in the image must be English — no Chinese characters, no Hindi, no mixed languages. Do not write a title in the top-left corner. Do not write the structure type on the image. Do not make it a formal diagram, course slide, or dense explainer. Do not copy label text from bundled example images. Do not copy prior examples or reuse known case compositions unless explicitly requested; invent a fresh visual metaphor for this specific article. It should be clear but not instructional, interesting but not childish, strange but clean.
+```
+
+## Dark mode (case study media)
+
+Use for dark UI backgrounds (`#0a0a0a`–`#1a1a1a`). See `jb-ip.md` and `character-roles.md`.
+
+```text
+Generate one standalone 16:9 horizontal English editorial illustration for a dark UI case study.
+
+Visual DNA:
+Near-black background (#0a0a0a to #1a1a1a). White and light-gray hand-drawn line art. Slightly wobbly pen lines. Generous empty dark space. Sparse orange/red/blue handwritten ENGLISH annotations that read on dark. Clean absurd product-sketch feeling — NOT a dense marketing diagram. No gradients, muddy gray fills, or realistic UI. No Chinese characters.
+
+Recurring IP character required:
+JB — small white hand-drawn outline creature with two pointy ears, small tuft between ears, two white dot eyes, thin white stick limbs. NOT a solid filled blob on dark. JB performs the core action.
+
+Character role (if scene needs actors):
+{Worker / Owner-Approver / Runner / Fixer / Customer / single anonymous worker}
+Indian setting (when it fits):
+{filter coffee tapri / auto stand hub / kirana counter / BMTC stop / market stall}
+Role cue: {stamp / steel tumbler / yellow auto / speech bubble / decoction flask / none}
+Optional role label: {e.g. "Owner signs off" / "Worker" / "The order"}
+
+Theme:
+{illustration theme}
+
+Core idea:
+{what this image must communicate}
+
+Composition:
+{specific scene: which JB role(s), what each is doing, main objects, how information flows}
+
+English handwritten labels:
+{label 1} / {label 2} / {label 3} / {optional 4–5}
+
+Color use:
+White for main line art and JB outline. Orange for main flow/path/arrows. Red for warnings/problems. Blue for secondary notes. Green only for success/done checkmarks.
+
+Cultural note:
+Prefer understated Bangalore everyday objects — filter coffee tapri, steel tumbler, decoction flask, yellow auto locality board, BMTC route board, kirana scale, hand stamp, route card. Localities: Koramangala, Indiranagar, Whitefield, HSR, Jayanagar. English labels only. Never stereotypes or kitsch.
+
+Constraints:
+One idea per image. High contrast on dark. Max 3 JB instances if multi-role. Same base silhouette for all roles — distinguish by prop and posture only. Max 5–8 short English labels. No top-left title. Fresh metaphor. Deadpan, not cute.
 ```
 
 ## Image Edit Prompts

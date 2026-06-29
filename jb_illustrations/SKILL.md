@@ -13,7 +13,7 @@ description: Generate JB-style English inline illustrations with an Indian cultu
 - Shot lists, themes, and delivery notes: **English only**
 - Never use Chinese, Hindi, or any other language in generated images or planning output
 
-Bundled example images (`assets/examples/`) come from the original Chinese project and contain Chinese text. Use them **only** for line density, whitespace, and JB participation — **never copy their labels**. Always write fresh English labels from the current article.
+Bundled example images (`assets/examples/`) are English-labeled style calibration samples. Use them **only** for line density, whitespace, JB participation, and role casting — **never copy their compositions**. Always write fresh English labels from the current article.
 
 ## Core Positioning
 
@@ -21,14 +21,15 @@ Design and generate 16:9 landscape inline illustrations for English articles. Th
 
 Default visual IP is **JB**: solid dark body, white dot eyes, thin legs, blank expression, seriously doing something absurd but coherent. JB must participate in the image's core action, not stand aside as decoration.
 
-Cultural lens: prefer Indian everyday metaphors — jugaad fixes, chai tapri, dabbawala sorting, autorickshaw routes, railway platforms, market weighing scales, tiffin boxes, post-office queues — when they fit the article's meaning. Do not force Indian imagery when it doesn't serve the concept.
+Cultural lens (optional): Indian everyday metaphors — filter coffee tapri, autorickshaw routes, market scales, kirana counters — when they fit the article. Default style is **pure white background** with black line art. Do not force local imagery when it doesn't serve the concept.
 
 ## Read These References As Needed
 
 Don't load everything at once:
 
 - `references/style-dna.md` — style DNA, colors, text, taboos.
-- `references/jb-ip.md` — JB character look, personality, action library, taboos.
+- `references/jb-ip.md` — JB character (light + dark mode).
+- `references/character-roles.md` — role casting: worker, owner, runner, fixer, customer (Indian everyday settings).
 - `references/composition-patterns.md` — structure types, original metaphor method, anti-copy rules.
 - `references/prompt-template.md` — single-image generation prompt template.
 - `references/qa-checklist.md` — post-generation check and iteration rules.

@@ -3,9 +3,10 @@
 ## Must Pass
 
 - 16:9 landscape.
-- Clean white background.
+- Correct background mode: clean white (light) or near-black `#0a0a0a`–`#1a1a1a` (dark).
 - JB is present.
 - JB performs the core action — not just decoration.
+- If role casting: same JB silhouette, roles distinguished by prop/posture only.
 - No copied old-case composition — fresh metaphor for this article.
 - Absurd, creative, interesting.
 - Clean and sparse — subject ≤ ~60% of frame.
@@ -25,7 +26,8 @@ Regenerate or edit locally if you see:
 - Looks like PPT, course slide, or formal flowchart.
 - Too many elements, arrows, or nodes.
 - Text becomes long explanatory paragraphs.
-- Background has paper texture, shadows, gradients, beige, or noise.
+- Background has paper texture, shadows, gradients, beige, or noise (light mode).
+- Wrong polarity: white outline JB on white background, or solid-dark JB on dark without contrast fix.
 - Real UI screenshots or tech chrome.
 - Severe English misspellings or unreadable labels.
 - **Any Chinese, Hindi, or non-English characters in labels.**

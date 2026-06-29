@@ -1,18 +1,17 @@
 # Example Images — Style Calibration Only
 
-These images were inherited from the original [Ian Xiaohei Illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) project. **They contain Chinese labels.**
-
-Use them only to calibrate:
+English-labeled samples generated for this skill. Use them to calibrate:
 
 - Line density and hand-drawn wobble
 - Whitespace ratio
 - Color restraint (red / orange / blue)
-- How JB (originally 小黑) participates in the scene
+- How JB participates in the scene
+- Light vs dark background polarity
+- Bangalore visual shorthand (filter coffee, yellow auto, BMTC stop)
 
 **Do not copy:**
 
-- Chinese label text
-- Compositions or object layouts
+- Compositions or object layouts verbatim
 - Specific metaphors from these cases
 
-All generated illustrations for this skill must use **English labels only**.
+Invent a fresh metaphor from the current article every time.

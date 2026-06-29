@@ -62,11 +62,12 @@ Invent fresh metaphors from the current article every time — never copy old im
 2. Turn the system structure into a low-tech object: broken machine, cardboard box, drawer, pipe, post box, weird dial, scale, well, ladder, odd workstation.
 3. Put JB in the action: not standing aside — stuck in the machine, pulling the wrong wire, guarding a door, carrying, patching, weighing, holding a ladder, logging, stuffing something into a weird device.
 
-### Indian Everyday Object Pool (Use When It Fits)
+### Bangalore Everyday Object Pool (Use When It Fits)
 
-- Tiffin box, steel dabba, chai kettle, autorickshaw, railway bench, bus signboard.
-- Jugaad wire, market weighing scale, post-office stamp pad, temple queue rope.
-- Dabbawala rack, handcart, ceiling fan pull-chain, old Nokia-style keypad as a "input device."
+- Filter coffee set (steel tumbler + davara, decoction flask, coffee filter).
+- Yellow-black autorickshaw with locality signboard.
+- BMTC bus stop bench and route number board.
+- Jugaad wire, KR Market weighing scale, post-office stamp pad, tapri counter.
 
 Pick only 1–2 objects. Don't crowd the frame.
 

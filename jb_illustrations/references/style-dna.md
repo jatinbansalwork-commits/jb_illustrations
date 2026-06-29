@@ -4,13 +4,32 @@
 
 Pure white, minimal, hand-drawn, whitespace, restrained, absurd, product-sketch feel, English handwritten labels, clear structure but not a manual.
 
-Like someone who builds AI products and writes in public, sketching an explainer on blank paper.
+Like someone sketching an explainer on **blank white paper** — this is the default and canonical style.
+
+## Default mode — white (phase 1)
+
+**Always use unless the user explicitly asks for dark mode.**
+
+- Pure white background: no beige, warm gray, paper texture, gradients, shadows, noise.
+- Solid-dark JB with white dot eyes, pointy ears, thin black stick limbs.
+- Black hand-drawn line art for all structure and objects.
+- Sparse red / orange / blue handwritten English annotations only.
+- Lots of whitespace: subject ~40%–60%; at least 35% blank white.
+
+## Optional — dark mode
+
+Only when user requests dark UI / case-study media:
+
+- Near-black background (`#0a0a0a`–`#1a1a1a`).
+- White outline JB; inverted polarity.
+
+Do not default to dark or full-color fills unless explicitly requested.
 
 ## Must-Haves
 
 - 16:9 landscape inline illustration.
-- Pure white background: no beige, warm gray, paper texture, gradients, shadows, noise, or vintage paper feel.
-- Black hand-drawn line art: thin lines, slight wobble, not mechanical, not vector, not heavy outlines.
+- Correct background mode (white or near-black).
+- Hand-drawn line art: thin lines, slight wobble, not mechanical, not vector, not heavy outlines.
 - Lots of whitespace: subject ~40%–60% of frame; at least 35% blank; ideally one quiet zone.
 - Sparse English handwritten annotations: max 5–8 labels, each ideally 2–8 words.
 - **English only** — never Chinese, Hindi, or mixed-language labels.

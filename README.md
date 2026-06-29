@@ -236,9 +236,4 @@ Root README and examples are for GitHub sharing.
 
 ## Credits
 
-Adapted from [Ian Xiaohei Illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) by Ian — reimagined for Cisco lens.
-
-Original author:
-
-- GitHub: [helloianneo](https://github.com/helloianneo)
-- Website: [www.ianneo.xyz](https://www.ianneo.xyz)
+Adapted from Ian Xiaohei Illustrations by Ian — reimagined for Cisco lens.

@@ -194,7 +194,6 @@ More examples in [examples/prompts.md](examples/prompts.md).
 ```text
 .
 ├── README.md
-├── LICENSE
 ├── examples/
 │   ├── images/
 │   ├── generated/
@@ -220,7 +219,7 @@ The subdirectory to install:
 jb_illustrations/
 ```
 
-Root README, LICENSE, and examples are for GitHub sharing.
+Root README and examples are for GitHub sharing.
 
 ---
 

@@ -242,9 +242,3 @@ Original author:
 
 - GitHub: [helloianneo](https://github.com/helloianneo)
 - Website: [www.ianneo.xyz](https://www.ianneo.xyz)
-
----
-
-## License
-
-MIT License. See [LICENSE](LICENSE).

@@ -8,7 +8,7 @@
 
 ## What This Repo Is
 
-JB Illustrations is an Agent Skill that guides AI agents to generate inline illustrations for English articles, posts, blogs, Notion docs, and methodology content — with an Indian cultural lens.
+JB Illustrations is an Agent Skill that guides AI agents to generate inline illustrations for English articles, posts, blogs, Notion docs, and methodology content — with a **Cisco case-study lens**.
 
 It is not a generic illustration prompt pack or a PPT infographic template. Its core goal: understand the cognitive anchor in an article, then turn one judgment, flow, structure, state, or metaphor into a memorable 16:9 hand-drawn explainer image.
 
@@ -73,21 +73,37 @@ Light white-background mode is also supported for inline article cards — see `
 
 ## Example Output
 
+Minimal Cisco dark case-study style — near-black background, white hand-drawn lines, small white-outline JB, sparse orange/red/blue English labels.
+
+### 1. Two breakpoints
+
 ![Two breakpoints](examples/images/01-two-breakpoints.png)
+
+### 2. Sort by purpose
 
 ![Sort by purpose](examples/images/02-sort-by-purpose.png)
 
+### 3. Handoff path
+
 ![Handoff path](examples/images/03-handoff-path.png)
+
+### 4. Information well
 
 ![Information well](examples/images/04-information-well.png)
 
+### 5. Idea press
+
 ![Idea press](examples/images/05-idea-press.png)
+
+### 6. Content fermentation
 
 ![Content fermentation](examples/images/06-content-fermentation.png)
 
+### 7. Trust bridge
+
 ![Trust bridge](examples/images/07-trust-bridge.png)
 
-Near-black background, white hand-drawn lines, minimal JB character, sparse orange/red/blue English labels — Cisco case-study style. These calibrate tone and density; invent fresh metaphors per article.
+These calibrate tone and density — invent fresh metaphors per article; do not copy compositions verbatim.
 
 ---
 
@@ -216,6 +232,17 @@ Root README, LICENSE, and examples are for GitHub sharing.
 - Example images calibrate line density, whitespace, color restraint, and JB participation — don't copy compositions.
 - Image models may hallucinate text, drift in style, or add unwanted titles — check after generation.
 - If English text is badly wrong, reduce label count and regenerate.
+
+---
+
+## Credits
+
+Adapted from [Ian Xiaohei Illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) by Ian — reimagined for Cisco lens.
+
+Original author:
+
+- GitHub: [helloianneo](https://github.com/helloianneo)
+- Website: [www.ianneo.xyz](https://www.ianneo.xyz)
 
 ---
 

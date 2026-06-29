@@ -113,7 +113,7 @@ These images are style calibration samples, not composition templates. Always in
 Clone the repo:
 
 ```bash
-git clone https://github.com/<your-username>/jb_illustrations.git
+git clone https://github.com/jatinbansalwork-commits/jb_illustrations.git
 cd jb_illustrations
 ```
 

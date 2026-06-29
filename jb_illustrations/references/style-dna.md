@@ -13,6 +13,7 @@ Like someone who builds AI products and writes in public, sketching an explainer
 - Black hand-drawn line art: thin lines, slight wobble, not mechanical, not vector, not heavy outlines.
 - Lots of whitespace: subject ~40%–60% of frame; at least 35% blank; ideally one quiet zone.
 - Sparse English handwritten annotations: max 5–8 labels, each ideally 2–8 words.
+- **English only** — never Chinese, Hindi, or mixed-language labels.
 - One image = one core action, structure, state, or metaphor.
 - Structure expressed visually — don't write structure type names on the image.
 

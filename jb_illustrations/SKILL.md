@@ -1,9 +1,19 @@
 ---
 name: jb_illustrations
-description: Generate JB-style English inline illustrations with an Indian cultural lens. Use when the user asks for absurd, hand-drawn, inline article illustrations, blog images, Notion visuals, workflow docs, methodology diagrams, flows, structures, states, metaphors, shot lists, or image edits (remove title / fix labels). Default IP is JB — pure white hand-drawn, sparse red/orange/blue English annotations, clean but wildly imaginative.
+description: Generate JB-style English inline illustrations with an Indian cultural lens. ENGLISH ONLY — all image labels, annotations, and shot-list text must be in English; never Chinese or other languages. Use when the user asks for absurd, hand-drawn, inline article illustrations, blog images, Notion visuals, workflow docs, methodology diagrams, flows, structures, states, metaphors, shot lists, or image edits (remove title / fix labels). Default IP is JB — pure white hand-drawn, sparse red/orange/blue English annotations, clean but wildly imaginative.
 ---
 
 # JB Absurd Inline Illustrations
+
+## Language — English Only
+
+**All output must be in English.**
+
+- Image labels and handwritten annotations: **English only**
+- Shot lists, themes, and delivery notes: **English only**
+- Never use Chinese, Hindi, or any other language in generated images or planning output
+
+Bundled example images (`assets/examples/`) come from the original Chinese project and contain Chinese text. Use them **only** for line density, whitespace, and JB participation — **never copy their labels**. Always write fresh English labels from the current article.
 
 ## Core Positioning
 
@@ -60,7 +70,8 @@ One image = one core structure. Every prompt must include:
 - 16:9 landscape English inline illustration
 - Pure white background
 - Black hand-drawn line art
-- Sparse red/orange/blue English handwritten annotations
+- Sparse red/orange/blue **English** handwritten annotations
+- **English only — no Chinese or other languages in the image**
 - Lots of whitespace
 - JB as the core action subject
 - No PPT, commercial illustration, childish cute, complex architecture, top-left type titles

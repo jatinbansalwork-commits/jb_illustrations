@@ -11,6 +11,7 @@
 - Clean and sparse — subject ≤ ~60% of frame.
 - One image = one core structure.
 - English labels: few, short, readable.
+- **No Chinese, Hindi, or non-English text anywhere in the image.**
 - Orange only for main path or arrows.
 - Red only for emphasis, problems, reminders, or results.
 - Blue only for secondary notes, feedback, or system state.
@@ -27,6 +28,7 @@ Regenerate or edit locally if you see:
 - Background has paper texture, shadows, gradients, beige, or noise.
 - Real UI screenshots or tech chrome.
 - Severe English misspellings or unreadable labels.
+- **Any Chinese, Hindi, or non-English characters in labels.**
 - Too rigid — no absurd metaphor.
 - Composition too similar to `assets/examples/` cases.
 

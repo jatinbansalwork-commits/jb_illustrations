@@ -36,7 +36,7 @@ Cultural note (optional):
 If the article's metaphor fits, use understated Indian everyday objects (tiffin box, chai kettle, jugaad fix, dabbawala rack, autorickshaw meter) — never stereotypes or kitsch.
 
 Constraints:
-One image explains only one core structure. Keep the main subject around 40%-60% of the canvas. Preserve at least 35% blank white space. Use at most 5-8 short handwritten English labels. Do not write a title in the top-left corner. Do not write the structure type on the image. Do not make it a formal diagram, course slide, or dense explainer. Do not copy prior examples or reuse known case compositions unless explicitly requested; invent a fresh visual metaphor for this specific article. It should be clear but not instructional, interesting but not childish, strange but clean.
+One image explains only one core structure. Keep the main subject around 40%-60% of the canvas. Preserve at least 35% blank white space. Use at most 5-8 short handwritten English labels. All text in the image must be English — no Chinese characters, no Hindi, no mixed languages. Do not write a title in the top-left corner. Do not write the structure type on the image. Do not make it a formal diagram, course slide, or dense explainer. Do not copy label text from bundled example images (they contain Chinese from the source project). Do not copy prior examples or reuse known case compositions unless explicitly requested; invent a fresh visual metaphor for this specific article. It should be clear but not instructional, interesting but not childish, strange but clean.
 ```
 
 ## Image Edit Prompts

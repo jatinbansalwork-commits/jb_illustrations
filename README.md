@@ -72,6 +72,8 @@ This skill uses JB's **absurd inline illustration** style:
 
 ## Example Output
 
+> **Note:** Example images below are style references from the original Chinese project. Labels in these images are Chinese — ignore them. All new illustrations must use **English labels only**.
+
 ### Two Breakpoints
 
 ![Two breakpoints](examples/images/01-two-breakpoints.png)

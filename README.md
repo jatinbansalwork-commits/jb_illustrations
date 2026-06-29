@@ -1,8 +1,8 @@
 # JB Illustrations
 
-> Turn judgments, flows, states, and metaphors in English articles into white-background, hand-drawn, absurd-but-clean inline illustrations.
+> Turn judgments, flows, states, and metaphors in English articles into hand-drawn, absurd-but-clean inline illustrations.
 >
-> 16:9 landscape | JB IP | pure white hand-drawn | sparse red/orange/blue English annotations | Agent Skill
+> 16:9 landscape | JB IP | minimal Cisco dark case-study style | sparse English annotations | Agent Skill
 
 ---
 
@@ -58,15 +58,16 @@ Default non-outputs:
 
 ## Visual Style
 
-This skill uses JB's **absurd inline illustration** style:
+Default example style — **minimal Cisco case-study media**:
 
-- Pure white background — no paper texture, beige, shadows, or gradients
-- Black hand-drawn line art — thin lines, slight wobble
-- Lots of whitespace — subject occupies roughly 40%–60% of the frame
-- Sparse red, orange, and blue English handwritten annotations
-- One image = one core action, structure, state, or metaphor
-- JB must participate in the core action, not just decorate
-- Absurd, creative, clean — not childish, not cute
+- Near-black background (`#0a0a0a`–`#1a1a1a`) with generous empty space
+- White hand-drawn line art — thin, slightly wobbly
+- **Minimal JB** — small white-outline creature, pointy ears, dot eyes; few props, few labels
+- Sparse orange / red / blue English handwritten annotations (max 3–4 per image)
+- One image = one core concept — no clutter, no dense diagrams
+- JB must participate in the core action, not decorate
+
+Light white-background mode is also supported for inline article cards — see `references/style-dna.md`.
 
 ---
 
@@ -86,7 +87,7 @@ This skill uses JB's **absurd inline illustration** style:
 
 ![Trust bridge](examples/images/07-trust-bridge.png)
 
-Pure white background, black hand-drawn lines, sparse red/orange/blue English labels — the default JB style. These calibrate tone and density; invent fresh metaphors per article.
+Near-black background, white hand-drawn lines, minimal JB character, sparse orange/red/blue English labels — Cisco case-study style. These calibrate tone and density; invent fresh metaphors per article.
 
 ---
 

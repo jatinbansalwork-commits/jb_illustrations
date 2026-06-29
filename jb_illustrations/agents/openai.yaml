@@ -1,0 +1,6 @@
+interface:
+  display_name: "JB Illustrations"
+  short_description: "Generate absurd, clean inline illustrations with the JB IP for English articles"
+  default_prompt: "Use $jb_illustrations to design and generate a few absurd inline illustrations for this English article."
+policy:
+  allow_implicit_invocation: true

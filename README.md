@@ -76,17 +76,15 @@ This skill uses JB's **absurd inline illustration** style:
 
 ![Sort by purpose](examples/images/02-sort-by-purpose.png)
 
-![One fish many uses](examples/images/03-one-fish-many-uses.png)
+![Handoff path](examples/images/03-handoff-path.png)
 
-![Handoff path](examples/images/04-handoff-path.png)
+![Information well](examples/images/04-information-well.png)
 
-![Information well](examples/images/05-information-well.png)
+![Idea press](examples/images/05-idea-press.png)
 
-![Idea press](examples/images/06-idea-press.png)
+![Content fermentation](examples/images/06-content-fermentation.png)
 
-![Content fermentation](examples/images/07-content-fermentation.png)
-
-![Trust bridge](examples/images/08-trust-bridge.png)
+![Trust bridge](examples/images/07-trust-bridge.png)
 
 Pure white background, black hand-drawn lines, sparse red/orange/blue English labels — the default JB style. These calibrate tone and density; invent fresh metaphors per article.
 

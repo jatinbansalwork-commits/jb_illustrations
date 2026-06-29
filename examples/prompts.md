@@ -66,8 +66,8 @@ JB laying bricks across a gap. Pure white, black lines, sparse red/orange/blue E
 ```
 
 ```text
-Use $jb_illustrations — generate one image for "one raw input, many content formats."
-JB slicing one fish into blog, thread, newsletter outputs. White background. Absurd but clean.
+Use $jb_illustrations — generate one white-background 16:9 illustration for "every workflow has two breakpoints."
+JB stuck at the first break in an orange path. Pure white, black lines, sparse English labels.
 ```
 
 ## Edit: Remove Title
